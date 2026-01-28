@@ -16,3 +16,6 @@
 
 ### Depencies installation
 - npm install --save-dev mocha chai
+
+### Running tests
+- npm test
